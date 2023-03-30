@@ -1,4 +1,4 @@
- ![logo](https://github.com/Atik-hridoy/Atik-hridoy/blob/main/banner%20(1).png)
+![logo](https://github.com/Atik-hridoy/Atik-hridoy/blob/main/banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Atikuzzam Hridoy</h1>
 <h3 align="center">A passionate Software developer</h3>
 <img align="middle" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
