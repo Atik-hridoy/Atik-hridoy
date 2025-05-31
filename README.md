@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Android Devolopeing**
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atik-hridoy](https://github.com/Atik-hridoy)
 
