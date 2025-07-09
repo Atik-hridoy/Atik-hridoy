@@ -30,19 +30,9 @@
 
 ### 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/android.svg" alt="Android" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/django.svg" alt="Django" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/flask.svg" alt="Flask" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/photoshop.svg" alt="Photoshop" width="40" height="40" />
-  <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" width="40" height="40" />
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </p>
+
+
 
 ---
 
