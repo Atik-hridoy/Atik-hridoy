@@ -1,8 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="120"/>
-</p>
+
 
 <h1 align="center">Heyyy, I’m <strong>Atikuzzam “Hridoy”</strong> 👋</h1>
 <h3 align="center">⚡ Flutter Developer | Mobile UI/UX Enthusiast | Dart & Django Explorer</h3>
